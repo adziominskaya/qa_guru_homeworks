@@ -1,1 +1,1 @@
-message = "original"
+message = "version A"
