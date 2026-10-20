@@ -24,7 +24,7 @@ def add(a, b):
 
 
 def greet(name):
-    print("Привет, " + name)
+    print("Привет, conflict" + name)
 
 
 nums = [1, 2, 3, 4, 5]
